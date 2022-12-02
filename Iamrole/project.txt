@@ -1,0 +1,9 @@
+create an AWS IAM role using terraform.
+create an IAM policy using terraform.
+attach the policy to the role using terraform.
+create the IAM instance profile using terraform.
+Assign the IAM role, to an EC2 instance on the fly using terraform.
+
+
+
+create an AWS IAM role using terraform.
